@@ -16,9 +16,7 @@ Electronics and Robotics Developer & Trainer with 23+ years of experience. Passi
 - [**Robotic Arm**](https://github.com/johndoe/robotic-arm-precision-manufacturing): High-precision arm for manufacturing.
 
 ## Certifications
-- **CompTIA Robotics+**
-- **IPC Certified Electronics Program Manager**
-- **Six Sigma Green Belt**
+
 
 ## Connect
 - **Website**: [johndoe-robotics.com](http://www.johndoe-robotics.com)
