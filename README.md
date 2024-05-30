@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tarjinder Tarun  CEO  Mobotics
 
 ## About Me
-🔧 Electronics and Robotics Developer & Trainer with 23+ years of experience. Passionate about innovation and teaching.
+🔧 Electronics and Robotics Developer & Trainer with 26+ years of experience. Passionate about innovation and teaching.
 
 ## Skills
 - 🛠️ **Electronics Design**: Circuit design, PCB layout
