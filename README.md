@@ -96,7 +96,7 @@ With Mobotics, the journey is as exhilarating as the destination, and I'm excite
 - 🐙 **GitHub**: [github.com/mobotics-india](https://github.com/mobotics-india)
 - 💼 **LinkedIn**: [linkedin.com/in/mobotics](https://linkedin.com/in/mobotics)
 - 📧 **Email**: tarjindert@gmail.com.com
-- 📺 YouTube Channel: youtube.com/mobotics
+- 📺 YouTube Channel: https://www.youtube.com/mobotics
 - 📱 WhatsApp Channel:  https://whatsapp.com/channel/0029Va9O5yr6buMN2nTfcu1b
 
 ## License
