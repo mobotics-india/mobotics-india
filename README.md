@@ -1,14 +1,32 @@
-# 👋 Hi, I'm Tarjinder Tarun  CEO  Mobotics
+# 👋 Hi, I'm Tarjinder Tarun  founder Mobotics
 
 ## About Me
-🔧 Electronics and Robotics Developer & Trainer with 26+ years of experience. Passionate about innovation and teaching.
+🤖 As an Electronics and Robotics Developer & Trainer with over 26 years of hands-on experience, I've dedicated my career to pushing the boundaries of innovation in robotics and electronics. From tinkering with circuits as a hobbyist to founding Mobotics, I've traversed a path fueled by passion and curiosity.
 
-## Skills
-- 🛠️ **Electronics Design**: Circuit design, PCB layout
-- 🤖 **Robotics**: Autonomous systems, robotic arms, sensor integration
-- 💻 **Programming**: Arduino, Raspberry Pi, Python, C/C++
-- 🖌️ **CAD**: Electronics and mechanical design
+🛠️ Mobotics stands as a testament to my commitment to merging cutting-edge technology with educational outreach. At Mobotics, we're not just building robots; we're shaping the future by empowering individuals with the skills and knowledge needed to thrive in a rapidly evolving technological landscape.
 
+🎓 As a seasoned trainer, I've had the privilege of mentoring countless aspiring engineers and enthusiasts, guiding them through the intricacies of electronics and robotics. Whether it's designing custom circuitry or programming complex autonomous systems, I believe in fostering a hands-on, experiential learning environment that fosters creativity and critical thinking.
+
+💡 Innovation is at the heart of everything we do at Mobotics. From conceptualizing groundbreaking robotic prototypes to developing scalable solutions for real-world challenges, we're constantly pushing the envelope to redefine what's possible in the realm of electronics and robotics.
+
+🌐 Beyond our workshops and training programs, we're actively involved in collaborative research projects, industry partnerships, and community initiatives aimed at driving positive change through technology. Together, we're not just building robots; we're building a future where innovation knows no bounds.
+
+With Mobotics, the journey is as exhilarating as the destination, and I'm excited to continue pushing the boundaries of what's possible in the world of electronics and robotics.
+##  Basic Electronics Skills
+- 🔋 Understanding Electrical Components: Proficient with resistors, capacitors, inductors, diodes, transistors, and integrated circuits.
+- 🔌 Circuit Design and Analysis: Skilled in reading and creating circuit diagrams, using simulation software like SPICE.
+- 🔧 Soldering: Experienced in both through-hole and surface-mount soldering techniques.
+- 📏 Multimeter Usage: Competent in measuring voltage, current, and resistance, and conducting continuity testing.
+- ⚡ Breadboarding and Prototyping: Adept at creating temporary circuits for testing and development, using breadboards and prototype boards.
+- 📡 Basic Signal Processing: Understanding of analog signal processing, including amplification and filtering.
+- 🛠️ Microcontroller Basics: Familiar with programming and interfacing microcontrol lers like Arduino and PIC.
+ ## Advanced Electronics Skills
+- 🔧 PCB Design and Fabrication: Proficient in using PCB design software such as Eagle, KiCad, and Altium for creating complex multilayer boards.
+- 💻 Microcontroller Programming: Advanced programming skills in platforms like Arduino,pico raspberry pii PIC, and STM32 ect.
+- 📶 Signal Processing: Expertise in analog and digital signal processing, including filtering, amplification, and conversion.
+- 🔋 Power Electronics: Skilled in designing power supplies, converters, and inverters, with knowledge of battery management systems.
+- 🤖 Embedded Systems Development: Experienced in integrating hardware and software for embedded applications, utilizing real-time operating systems (RTOS).
+- 📡 Wireless Communication: Knowledgeable in RF design and implementation, including Bluetooth, Wi-Fi, Zigbee, and LoRa technologies.
 ## Projects
 - 🚚 [**Autonomous Delivery Robot**](https://github.com/johndoe/autonomous-delivery-robot): A robot for delivering packages autonomously.
 - 🏠 [**Smart Home Automation**](https://github.com/johndoe/smart-home-automation): System for home automation enhancing efficiency and security.
@@ -65,15 +83,21 @@
 - 🧼 [**Smart Cleaning Robot**](https://github.com/johndoe/smart-cleaning-robot): Robots designed for automated cleaning tasks.
 - 🌍 [**Global Climate Monitoring**](https://github.com/johndoe/global-climate-monitoring): IoT systems for monitoring global climate data.
 - 🎨 [**Interactive Art Installations**](https://github.com/johndoe/interactive-art-installations): Integrating technology with art for interactive experiences.
-
 ## Certifications
--
+**ISO Certifications**: Our firm is proud to hold ISO certifications, demonstrating our commitment to international standards.
+**ISTEM Registration**: We are registered with the Indian Science Technology and Engineering Facilities Map (ISTEM), showcasing our presence and capabilities in the Indian science and technology ecosystem. 🇮🇳
+**NCS Registration**: Our firm is registered with the National Career Service (NCS), affirming our commitment to talent acquisition and career development in collaboration with the Government of India. 
+**Udyam Registration**: We are registered under the Udyam Registration, formerly known as MSME registration, symbolizing our status as a micro, small, or medium enterprise.
+
+
 
 ## Connect
-- 🌐 **Website**: [johndoe-robotics.com](http://www.johndoe-robotics.com)
-- 🐙 **GitHub**: [github.com/johndoe](https://github.com/johndoe)
-- 💼 **LinkedIn**: [linkedin.com/in/johndoe-electronics](https://linkedin.com/in/johndoe-electronics)
-- 📧 **Email**: johndoe@example.com
+- 🌐 **Website**: [](http://)
+- 🐙 **GitHub**: [github.com/mobotics-india](https://github.com/mobotics-india)
+- 💼 **LinkedIn**: [linkedin.com/in/mobotics](https://linkedin.com/in/mobotics)
+- 📧 **Email**: tarjindert@gmail.com.com
+- 📺 YouTube Channel: youtube.com/mobotics
+- 📱 WhatsApp Channel:  https://whatsapp.com/channel/0029Va9O5yr6buMN2nTfcu1b
 
 ## License
 📄 Projects are licensed under the MIT License. See LICENSE files in each repository for details.
